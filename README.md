@@ -23,3 +23,4 @@ Like Google’s own, your search bar should be centered with rounded corners. Th
 
 # Bugs:
 - The "I'm Feeling Lucky" button shows a redirect warning before taking you to the first Google result
+  - This could be fixed by providing an iflsig via a hidden input field, but as the value is ever-changing, I couldn't get it to work.
